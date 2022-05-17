@@ -1,0 +1,2 @@
+# Novomatic
+It tehnologija
